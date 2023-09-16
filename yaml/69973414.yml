@@ -1,0 +1,35 @@
+---
+id: 69973414
+name: Blackwing - Twin Shadow
+type: Trap Card
+frameType: trap
+desc: Return 2 of your "Blackwing" monsters that are banished and/or in your GY to
+  the Deck and/or Extra Deck (1 Tuner and 1 non-Tuner); Special Summon 1 "Blackwing"
+  Synchro Monster or "Black-Winged Dragon" from your Extra Deck whose Level exactly
+  equals the total Levels of those monsters. (This is treated as a Synchro Summon.)
+  If you control 2 or more "Blackwing" monsters, you can activate this card from your
+  hand. You can only activate 1 "Blackwing - Twin Shadow" per turn.
+race: Normal
+archetype: Blackwing
+card_sets:
+- set_name: '25th Anniversary Tin: Dueling Heroes Mega Pack'
+  set_code: MP23-EN207
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+- set_name: Darkwing Blast
+  set_code: DABL-EN071
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 69973414
+  image_url: https://images.ygoprodeck.com/images/cards/69973414.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/69973414.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/69973414.jpg
+card_prices:
+- cardmarket_price: '0.09'
+  tcgplayer_price: '0.12'
+  ebay_price: '0.99'
+  amazon_price: '1.17'
+  coolstuffinc_price: '0.25'

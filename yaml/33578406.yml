@@ -1,0 +1,28 @@
+---
+id: 33578406
+name: Original Bamboo Sword
+type: Spell Card
+frameType: spell
+desc: 'The equipped monster gains 0 ATK. When the equipped monster inflicts battle
+  damage by a direct attack: You can destroy all monsters your opponent controls.
+  You can send this equipped card to the GY; equip 1 "Bamboo Sword" Equip Spell from
+  your Deck to 1 face-up monster on the field, except "Original Bamboo Sword".'
+race: Equip
+archetype: Bamboo Sword
+card_sets:
+- set_name: Darkwing Blast
+  set_code: DABL-EN070
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+card_images:
+- id: 33578406
+  image_url: https://images.ygoprodeck.com/images/cards/33578406.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/33578406.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/33578406.jpg
+card_prices:
+- cardmarket_price: '0.10'
+  tcgplayer_price: '0.08'
+  ebay_price: '0.99'
+  amazon_price: '6.77'
+  coolstuffinc_price: '0.49'
